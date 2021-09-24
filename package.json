@@ -1,0 +1,36 @@
+{
+  "name": "together",
+  "version": "1.0.0",
+  "description": "Front end code for the Together Website",
+  "main": "index.js",
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-svg-symbols": "^3.2.3",
+    "gulp-uglifyes": "^0.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricky55/covid19-assembly.git"
+  },
+  "author": "Richard Dale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ricky55/covid19-assembly/issues"
+  },
+  "homepage": "https://github.com/Ricky55/covid19-assembly/#readme",
+  "dependencies": {
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^4.14.1",
+    "npm-install-all": "^1.1.21"
+  }
+}
