@@ -1,7 +1,7 @@
 {
-  "name": "together",
+  "name": "hades",
   "version": "1.0.0",
-  "description": "Front end code for the Together Website",
+  "description": "Front end code for the Hades Recruitment Website",
   "main": "index.js",
   "devDependencies": {
     "autoprefixer": "^9.8.6",
@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ricky55/covid19-assembly.git"
+    "url": "git+https://github.com/Ricky55/hades-recruitment.git"
   },
   "author": "Richard Dale",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ricky55/covid19-assembly/issues"
+    "url": "https://github.com/Ricky55/hades-recruitment/issues"
   },
-  "homepage": "https://github.com/Ricky55/covid19-assembly/#readme",
+  "homepage": "https://github.com/Ricky55/hades-recruitment/#readme",
   "dependencies": {
     "gulp-uglify": "^3.0.2",
     "node-sass": "^4.14.1",
